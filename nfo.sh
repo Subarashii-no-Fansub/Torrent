@@ -1,5 +1,6 @@
 #!/bin/sh
 # paramètre 1 : video/dossier $1
+set -e
 
 if [ -d $1 ]
 then
