@@ -1,11 +1,9 @@
 Si ce n'est pas nous qui l'ayons traduit
 =========================================
 
-[list]
-  [*][b]NOM DU TORRENT[/b]
-  [*]Traduction réalisée par [url="NOM_FANSUB_TORRENT"]NOM_FANSUB_TRADUCTION[/url]
-  [*]Fichier Mkv uni par la [url="http://www.subarashii-no-fansub.tk"]Subarashii no Fansub[/url]
-[/list]
+  * [b]NOM DU TORRENT[/b]
+  * Traduction réalisée par [url="NOM_FANSUB_TORRENT"]NOM_FANSUB_TRADUCTION[/url]
+  * Fichier Mkv uni par la [url="http://www.subarashii-no-fansub.tk"]Subarashii no Fansub[/url]
 
 [quote="NOM_FANSUB_TORRENT"]Message de la fansub traductice[/quote]
 
@@ -16,7 +14,7 @@ N'hésitez pas à commenter pour nous transmettre votre avis :)
 Sinon
 =====
 
-* [b]NOM DU TORRENT[/b]
+  * [b]NOM DU TORRENT[/b]
 
 par la [url="http://www.subarashii-no-fansub.tk"]Subarashii no Fansub[/url]
 
