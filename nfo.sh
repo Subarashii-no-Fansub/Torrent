@@ -4,7 +4,7 @@ set -e
 
 if [ -d $1 ]
 then
-  filename="dossier"
+  filename=$(basename $1)
 else
   fullfilename=$(basename $1)
   filename=${fullfilename%.*}
