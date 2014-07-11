@@ -15,7 +15,7 @@ fi
 
 echo "     = = = = =     "
 
-transmission-create -o "$setdirectory/$file.torrent" --private --tracker http://tracker.t411.me:56969/ "$file"
+transmission-create -o "$setdirectory/$file.torrent" --private --tracker http://tracker.t411.me:56969/ "$1"
 chmod 644 "$setdirectory/$file.torrent"
 
 if [ -d $1 ]
