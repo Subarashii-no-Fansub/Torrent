@@ -15,9 +15,6 @@ fi
 
 echo "     = = = = =     "
 
-transmission-create -o "$setdirectory/$1.torrent" --private --tracker http://tracker.t411.me:56969/ "$1"
-chmod 644 "$setdirectory/$file.torrent"
-
 if [ -d "$1" ]
 then
   filename=$(basename "$1")
@@ -25,6 +22,10 @@ else
   fullfilename=$(basename "$1")
   filename=${fullfilename%.*}
 fi
+
+
+transmission-create -o "$setdirectory/$$filename.torrent" --private --tracker http://tracker.t411.me:56969/ "$1"
+chmod 644 "$setdirectory/$filename.torrent"
 
 mediainfo "$1" > "$setdirectory/$filename".nfo
 chmod 644 "$setdirectory/$filename".nfo
