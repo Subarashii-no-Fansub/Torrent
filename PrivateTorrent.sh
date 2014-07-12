@@ -2,7 +2,7 @@
 # paramètre 1 : video $1 ou dossier
 set -e
 
-setdirectory='/home/ddl/public_html'
+source './configTorrent.cfg'
 
 echo "Informations complémentaires"
 if [ -d "$1" ]
@@ -24,7 +24,7 @@ else
 fi
 
 
-transmission-create -o "$setdirectory/$filename.torrent" --private --tracker http://tracker.t411.me:56969/ "$1"
+transmission-create -o "$setdirectory/$filename.torrent" --private --tracker "$private_tracker" "$1"
 chmod 644 "$setdirectory/$filename.torrent"
 
 mediainfo "$1" > "$setdirectory/$filename".nfo
