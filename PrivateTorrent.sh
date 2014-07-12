@@ -10,7 +10,7 @@ then
   echo -n "Taille du dossier : " && du -hs "$1"
   echo -n "Nombre de fichiers à l'intérieur : " && find "$1" -maxdepth 1 -type f | wc -l
 else
-  echo -n "Taille du fichier en bytes : " && stat --format="%s" "$1"
+  echo -n "Taille du fichier en Mo : " && bc <<< "scale=2; $(stat --format="%s" '$1')/1048576"
 fi
 
 echo "     = = = = =     "
