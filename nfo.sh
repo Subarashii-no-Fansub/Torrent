@@ -2,7 +2,7 @@
 # paramètre 1 : video/dossier $1
 set -e
 
-if [ -d $1 ]
+if [ -d "$1" ]
 then
   filename=$(basename "$1")
 else
