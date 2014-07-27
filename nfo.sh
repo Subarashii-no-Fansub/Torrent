@@ -4,10 +4,10 @@ set -e
 
 if [ -d $1 ]
 then
-  filename=$(basename $1)
+  filename=$(basename "$1")
 else
-  fullfilename=$(basename $1)
+  fullfilename=$(basename "$1")
   filename=${fullfilename%.*}
 fi
 
-mediainfo $1 > "$filename".nfo
+mediainfo "$1" > "$filename".nfo
