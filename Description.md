@@ -4,7 +4,7 @@ Si ce n'est pas nous qui l'ayons traduit
   * [b]NOM DU TORRENT[/b]
 
   * Traduction réalisée par [u][url="NOM_FANSUB_TORRENT"]NOM_FANSUB_TRADUCTION[/url][/u]
-  * Fichier Mkv uni par la [url="http://www.subarashii-no-fansub.tk"]Subarashii no Fansub[/url]
+  * Fichier Mkv uni par la [u]Subarashii no Fansub[/u]
 
 
 [quote="NOM_FANSUB_TORRENT"]Message de la fansub traductice[/quote]
@@ -18,7 +18,7 @@ Sinon
 
   * [b]NOM DU TORRENT[/b]
 
-  * par la [u][url="http://www.subarashii-no-fansub.tk"]Subarashii no Fansub[/url][/u]
+  * par la [u][b]Subarashii no Fansub[/b][/u]
 
 
 Merci de rester en SEED le plus longtemps possible pour permettre le partage de cet épisode.
