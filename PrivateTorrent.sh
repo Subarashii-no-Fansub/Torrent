@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 # paramètre 1 : video $1 ou dossier
 set -e
 
