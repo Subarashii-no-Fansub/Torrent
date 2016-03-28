@@ -25,9 +25,9 @@ fi
 
 
 transmission-create -o "$setdirectory/$filename.torrent" --private --tracker "$private_tracker" "$1"
-chmod 644 "$setdirectory/$filename.torrent"
+#chmod 644 "$setdirectory/$filename.torrent"
 
 mediainfo "$1" > "$setdirectory/$filename".nfo
-chmod 644 "$setdirectory/$filename".nfo
+#chmod 644 "$setdirectory/$filename".nfo
 
 echo "FINI !"
