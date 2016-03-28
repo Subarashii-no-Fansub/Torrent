@@ -10,4 +10,5 @@ else
   filename=${fullfilename%.*}
 fi
 
-mediainfo "$1" > "$filename".nfo
+mediainfo "$1" > "$setdirectory/$filename".nfo
+#chmod 644 "$setdirectory/$filename".nfo
