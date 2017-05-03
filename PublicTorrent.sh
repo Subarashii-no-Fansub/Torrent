@@ -6,7 +6,7 @@ source './configTorrent.cfg'
 
 filename=$(basename "$1")
 
-transmission-create -o "$setdirectory/$filename.torrent" --tracker "$public_tracker_un" --tracker "$public_tracker_deux" "$1"
+transmission-create -o "$setdirectory/$filename.torrent" --tracker "$public_tracker_un" --tracker "$public_tracker_deux" --tracker "$public_tracker_trois" "$1"
 #chmod 644 "$setdirectory/$filename.torrent"
 
 echo "FINI !"
