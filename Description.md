@@ -4,7 +4,7 @@
 
 
  \* **[SnF] Koi wa Ameagari no You ni - 01 VOSTFR [720p] [37962395].mkv**  
-  
+
  \* par **Subarashii no Fansub**
 
 ```
