@@ -1,6 +1,27 @@
-Si ce n'est pas nous qui l'ayons traduit
-=========================================
+# Description
 
+## Markdown
+
+
+ \* **[SnF] Koi wa Ameagari no You ni - 01 VOSTFR [720p] [37962395].mkv**  
+  
+ \* par **Subarashii no Fansub**
+
+```
+Basé sur le travail de Commie.  
+Traduction de Amazon Prime.  
+```
+
+En cas de down de Nyaa, vous trouverez un lien pour les magnets de nos séries [ici](https://subarashii-no-fansub.github.io/magnet.txt).  
+
+Merci de rester en SEED le plus longtemps possible pour permettre le partage de cet épisode.  
+N'hésitez pas à commenter pour nous transmettre votre avis :)
+
+## BBCOde
+
+### Si ce n'est pas nous qui l'ayons traduit
+
+```
   * [b]NOM DU TORRENT[/b]
 
   * Traduction réalisée par [u][url="NOM_FANSUB_TORRENT"]NOM_FANSUB_TRADUCTION[/url][/u]
@@ -11,11 +32,11 @@ Si ce n'est pas nous qui l'ayons traduit
 
 Merci de rester en SEED le plus longtemps possible pour permettre le partage de cet épisode.
 N'hésitez pas à commenter pour nous transmettre votre avis :)
+```
 
+### Sinon
 
-Sinon
-=====
-
+```
   * [b]NOM DU TORRENT[/b]
 
   * par la [u][b]Subarashii no Fansub[/b][/u]
@@ -23,9 +44,10 @@ Sinon
 
 Merci de rester en SEED le plus longtemps possible pour permettre le partage de cet épisode.
 N'hésitez pas à commenter pour nous transmettre votre avis :)
+```
 
-BBCode qui fonctionne sous Nyaa :
-========================
+### BBCode qui fonctionnait sous Nyaa :
+
 + Texte en gras 	[b]Texte[/b]
 + Texte en italique 	[i]Texte[/i]
 + Texte souligné 	[u]Texte[/u]
