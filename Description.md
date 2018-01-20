@@ -2,20 +2,18 @@
 
 ## Markdown
 
-
- \* **[SnF] TITRE.mkv**  
+ \* **NOM DU TORRENT**
 
  \* par **Subarashii no Fansub**
 
 ```
-Basé sur le travail de Commie.  
-Traduction de Amazon Prime.  
+Basé sur le travail de XXX.
 ```
 
 ***
 En cas de down de Nyaa, vous trouverez un lien pour les magnets de nos séries [ici](https://subarashii-no-fansub.github.io/magnet.txt).
 
-Merci de rester en SEED le plus longtemps possible pour permettre le partage de cet épisode.  
+Merci de rester en SEED le plus longtemps possible pour permettre le partage de cet épisode.
 N'hésitez pas à commenter pour nous transmettre votre avis :)
 
 ## BBCOde
