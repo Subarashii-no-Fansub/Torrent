@@ -16,7 +16,7 @@ En cas de down de Nyaa, vous trouverez un lien pour les magnets de nos séries [
 Merci de rester en SEED le plus longtemps possible pour permettre le partage de cet épisode.
 N'hésitez pas à commenter pour nous transmettre votre avis :)
 
-## BBCOde
+## BBCode
 
 ### Si ce n'est pas nous qui l'ayons traduit
 
